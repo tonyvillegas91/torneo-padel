@@ -1,4 +1,4 @@
-# ⚾️ Torneo de Pádel - Generador y Clasificador
+# 🎾 Torneo de Pádel - Generador y Clasificador
 
 Este es un programa desarrollado en **Python** utilizando **Tkinter** para organizar un torneo de pádel con 4 equipos. El software permite registrar equipos, generar partidos automáticamente, introducir resultados y calcular una clasificación con criterios de desempate.
 
@@ -120,8 +120,8 @@ Este proyecto está bajo la licencia **MIT**. Puedes consultar los términos [aq
 
 - **Autor**: Tony Villegas Brea
 - **Correo**: tony.villegas91@gmail.com
-- **GitHub**: [tu-usuario](https://github.com/tonyvillegas91)
+- **GitHub**: [tonyvillegas91](https://github.com/tonyvillegas91)
 
 ---
 
-_Disfruta organizando tu torneo de pádel sin complicaciones._ ⚾️🏰🌟
+_Disfruta organizando tu torneo de pádel sin complicaciones._ 🎾🏰🌟
