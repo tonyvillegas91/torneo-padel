@@ -27,7 +27,7 @@ Asegúrate de tener **Python** instalado en tu equipo. Luego sigue estos pasos:
    ```
 2. **Ejecuta el programa**:
    ```bash
-   python torneo_padel.py
+   python torneo-padel.py
    ```
 
 ---
